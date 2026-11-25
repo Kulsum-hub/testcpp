@@ -1,4 +1,4 @@
 #include<iostream>
  int main(){
-std::cout<<"kulsum tasmiya"; 
+std::cout<<"KT "; 
 return 0;} 
